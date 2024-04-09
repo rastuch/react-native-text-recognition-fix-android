@@ -22,7 +22,7 @@ android {
     buildToolsVersion safeExtGet('TextRecognition_buildToolsVersion', '30.0.0')
     defaultConfig {
         minSdkVersion safeExtGet('TextRecognition_minSdkVersion', 16)
-        targetSdkVersion safeExtGet('TextRecognition_targetSdkVersion', 29)
+        targetSdkVersion safeExtGet('TextRecognition_targetSdkVersion', 30)
         versionCode 1
         versionName "1.0"
 
